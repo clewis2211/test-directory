@@ -11,3 +11,9 @@ var line2 = ' lines of code; ';
 var line3 = ' strikes one out, clears it all out '; 
 var line4 = ' lines of code in the file '; 
 var line5 = ' no more lines of code in the file.';
+
+let mySingingFriends = () =>{
+    for(let i = 0; i<friends.length; i++){
+        
+    }
+}
